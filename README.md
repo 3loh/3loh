@@ -1,1 +1,1 @@
-I'm Just Tell The Computer some Commands  .. They call it programming  
+I'm Just Tell The Computer some Commands  .. They call it "Coding"  
